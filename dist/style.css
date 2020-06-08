@@ -1,0 +1,129 @@
+.blockone {
+  display: flex; 
+  width: 1000px;
+}
+.picture {
+  
+}
+.first {
+  line-height: 1.5;
+  margin: 20px;
+}
+header {
+  font-family: 'Abril Fatface';
+    position: relative;
+}
+.myname {
+  position: absolute;
+  left: 100px;
+  top: 180px;
+  width: 100%; 
+  font-family: 'Abril Fatface'
+}
+img {
+   width: 290px;
+  height: 400px;
+  object-fit: cover;
+/*  max-height:300px;
+  flex-grow: 1; */
+}
+h1 {
+  font-size: 35px;
+  margin-bottom: 0px;
+  margin-right: 210px;
+}  
+h2 {
+  margin: 0px;
+  font-size: 60px;
+}
+.blocktwo{
+  display: flex;
+  width: 1000px;
+  
+}
+.blockthree {
+  display: flex;
+  width: 1000px;
+}
+.blockfour {
+  display: flex;
+  width: 1000px;
+}
+p {
+  font-family: 'Josefin Sans';
+}
+ul {
+  font-family: 'Josefin Sans';
+}
+h3,h4 {
+  font-family :
+    'Josefin Sans';
+  }
+h3 {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+h4 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+h5 {
+  font-family: 'Merriweather';
+  margin-top: 0px;
+}
+blockquote::before {
+  content: '”';
+  position: absolute;
+  top: -20px;
+  left: 8px;
+  margin: 0px;
+  font-size: 100px;
+}
+blockquote {
+  font-family: 'Abril Fatface';
+  position: relative;
+  width: 300px;
+  background: grey;
+  color: white;
+  margin-left: 0px;
+  margin-right: 10px;
+  font-size: 35px;
+  padding: 50px;  
+}
+li {
+  list-style-type: square;
+}
+.second {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  margin: 20px;
+  line-height: 1.5;
+  width: 1000px
+}
+.third {
+  margin: 20px;
+  line-height: 1.5;
+}
+.fourth {
+  margin: 20px;
+  line-height: 1.5;
+}
+hr {
+  margin: 50px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.fifth {
+  margin: 50px;
+  line-height: 1.5;
+}
+#together {
+  height: 170px;
+  width: 400px;
+}
+#find {
+  height: 180PX;
+}
